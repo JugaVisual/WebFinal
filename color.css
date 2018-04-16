@@ -1,0 +1,22 @@
+
+header:after,
+nav:after,
+footer:after,
+.module-block:after,
+.gallery:after,
+.social:after
+.color:after 
+ {
+
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
